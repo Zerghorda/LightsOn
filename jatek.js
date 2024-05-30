@@ -1,3 +1,3 @@
 import { jatekPalya } from "./palya.js";
-let meret = 3
-
+export let meret = 3;
+let nyerte = false;
