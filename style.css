@@ -12,7 +12,7 @@ main {
   margin: 10;
   text-align: center;
 }
-.lekapcsolt {
+.felkapcsolt{
   margin: 20px;
   padding: 10px;
   height: 100px;
@@ -21,7 +21,7 @@ main {
   border-radius: 50%;
   display: inline-block;
 }
-.felkapcsolt {
+.lekapcsolt {
   margin: 20px;
   padding: 10px;
   height: 100px;
@@ -31,6 +31,7 @@ main {
   display: inline-block;
 }
 #lekapcsoltakSz {
-font-size: 30px;
+font-size: 70px;
 color: green;
 }
+#leiras{font-size: 30px;}
