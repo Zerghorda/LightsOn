@@ -10,9 +10,8 @@ footer {
 main {
   padding: 10px;
   margin: 10;
-  text-align: center;
 }
-.felkapcsolt{
+.felkapcsolt {
   margin: 20px;
   padding: 10px;
   height: 100px;
@@ -31,7 +30,15 @@ main {
   display: inline-block;
 }
 #lekapcsoltakSz {
-font-size: 70px;
-color: green;
+  font-size: 70px;
+  color: green;
 }
-#leiras{font-size: 30px;}
+.felkapcsolt:hover {
+  cursor: pointer;
+}
+.lekapcsolt:hover {
+  cursor: pointer;
+}
+#leiras {
+  font-size: 30px;
+}

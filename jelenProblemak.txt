@@ -1,0 +1,1 @@
+click event,melle lévő elemek változása,győzési lehetőség,max 30% lekapcsolt lehet
